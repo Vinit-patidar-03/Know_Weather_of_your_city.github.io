@@ -1,0 +1,30 @@
+@media (max-width:730px)
+{
+    .city input
+    {
+        width: 180px;
+        height: 20px;
+    }
+
+    .btn
+    {
+        width: 70px;
+        height: 28px;
+    }
+
+    #Weather
+    {
+        flex-wrap: wrap;
+        margin: 50px 0px 0px 0px;
+    }
+
+    .weather
+    {
+        margin: 20px 10px;
+    }
+
+    footer
+{
+    position: unset;
+}
+}
